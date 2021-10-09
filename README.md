@@ -3,6 +3,6 @@ A place to exhibit the skills learned on the 5 day coding challenge by Code Inst
 Topics covered  
 -----------
 - HTML
-- css
+- CSS
 - responsive design (platform dependency)
 - touched on Javascript
